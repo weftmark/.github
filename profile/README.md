@@ -11,11 +11,7 @@
 | Repository | Description |
 | --- | --- |
 | [weftmark](https://github.com/weftmark/weftmark) | The main application — Python backend, TypeScript/React frontend |
-| [agent-search-looms](https://github.com/weftmark/agent-search-looms) | Multi-agent AI pipeline that researches and validates loom specifications |
-| [agent-search-yarns](https://github.com/weftmark/agent-search-yarns) | Multi-agent AI pipeline for yarn catalog research at scale |
 | [ravelpy](https://github.com/weftmark/ravelpy) | Read-only Python client for the Ravelry API |
-| [pyravelry](https://github.com/weftmark/pyravelry) | Python wrapper for the Ravelry API |
-| [komodo](https://github.com/weftmark/komodo) | Infrastructure and deployment orchestration |
 
 ---
 
